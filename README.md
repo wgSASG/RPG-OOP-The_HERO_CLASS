@@ -17,6 +17,7 @@ Abre tu terminal, busca y abre la carpeta donde clonaste este repositorio y ejec
 `g++ -std=c++11 main.cpp -o game`
 
 Ya compilado, ejecuta el simulador con el siguiente comando:
+
 ##En Linux / macOS:
 `./game`
 ## En Windows:
