@@ -18,7 +18,7 @@ Abre tu terminal, busca y abre la carpeta donde clonaste este repositorio y ejec
 
 Ya compilado, ejecuta el simulador con el siguiente comando:
 
-##En Linux / macOS:
+## En Linux / macOS:
 `./game`
 ## En Windows:
 `game.exe`
